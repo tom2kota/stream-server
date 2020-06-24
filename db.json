@@ -1,3 +1,4 @@
 {
-  "streams": []
+  "streams": [],
+  "posts": [{"title": "Blog Post #1"},{"title": "Blog Post #2"},{"title": "Blog Post #3"},{"title": "Blog Post #4"},{"title": "Blog Post #5"}]
 }
