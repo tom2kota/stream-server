@@ -1,5 +1,18 @@
 {
-  "streams": [],
+  "streams": [
+      {
+      "userId": 113168356578672662135,
+      "id": 1,
+      "title": "Initial Stream #1",
+      "description": "Initial stream description from JSON Server"
+    },
+    {
+      "userId": 113168356578672662135,
+      "id": 2,
+      "title": "Initial Stream #2",
+      "description": "Initial stream description from JSON Server"
+    }
+  ],
    "posts": [
     {
       "id": 1,
